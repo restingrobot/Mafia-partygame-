@@ -1,1 +1,1 @@
-# Mafia-partygame-
+# Mafia
