@@ -18,7 +18,6 @@ public class SplashActivity extends BaseActivity {
             public void run() {
                 Intent i = new Intent(SplashActivity.this, MenuActivity.class);
                 startActivity(i);
-
                 finish();
             }
         }, SPLASH_TIME_OUT);
